@@ -1,0 +1,51 @@
+C:\Users\emirg\Desktop\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.csproj.AssemblyReference.cache
+C:\Users\emirg\Desktop\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirg\Desktop\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.Form2.resources
+C:\Users\emirg\Desktop\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.Form3.resources
+C:\Users\emirg\Desktop\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.Form4.resources
+C:\Users\emirg\Desktop\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.Form5.resources
+C:\Users\emirg\Desktop\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.Properties.Resources.resources
+C:\Users\emirg\Desktop\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.csproj.GenerateResource.cache
+C:\Users\emirg\Desktop\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.csproj.CoreCompileInputs.cache
+C:\Users\emirg\Desktop\MONSTER\OKUL\muhammmet\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.csproj.AssemblyReference.cache
+C:\Users\emirg\Desktop\MONSTER\OKUL\muhammmet\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirg\Desktop\MONSTER\OKUL\muhammmet\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.AnaEkran.resources
+C:\Users\emirg\Desktop\MONSTER\OKUL\muhammmet\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.SATIŞFORMU.resources
+C:\Users\emirg\Desktop\MONSTER\OKUL\muhammmet\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.PERSONEL.resources
+C:\Users\emirg\Desktop\MONSTER\OKUL\muhammmet\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.Properties.Resources.resources
+C:\Users\emirg\Desktop\MONSTER\OKUL\muhammmet\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.SATINALMA.resources
+C:\Users\emirg\Desktop\MONSTER\OKUL\muhammmet\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.csproj.GenerateResource.cache
+C:\Users\emirg\Desktop\MONSTER\OKUL\muhammmet\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.csproj.CoreCompileInputs.cache
+C:\Users\emirg\Desktop\MONSTER\OKUL\muhammmet\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\bin\Debug\Zahire Pazar Alanı Projesi.exe.config
+C:\Users\emirg\Desktop\MONSTER\OKUL\muhammmet\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\bin\Debug\Zahire Pazar Alanı Projesi.exe
+C:\Users\emirg\Desktop\MONSTER\OKUL\muhammmet\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\bin\Debug\Zahire Pazar Alanı Projesi.pdb
+C:\Users\emirg\Desktop\MONSTER\OKUL\muhammmet\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.exe
+C:\Users\emirg\Desktop\MONSTER\OKUL\muhammmet\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.pdb
+C:\Users\emirg\Desktop\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\bin\Debug\Zahire Pazar Alanı Projesi.exe.config
+C:\Users\emirg\Desktop\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\bin\Debug\Zahire Pazar Alanı Projesi.exe
+C:\Users\emirg\Desktop\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\bin\Debug\Zahire Pazar Alanı Projesi.pdb
+C:\Users\emirg\Desktop\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.csproj.AssemblyReference.cache
+C:\Users\emirg\Desktop\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirg\Desktop\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.AnaEkran.resources
+C:\Users\emirg\Desktop\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.SATIŞFORMU.resources
+C:\Users\emirg\Desktop\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.PERSONEL.resources
+C:\Users\emirg\Desktop\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.Properties.Resources.resources
+C:\Users\emirg\Desktop\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.SATINALMA.resources
+C:\Users\emirg\Desktop\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.csproj.GenerateResource.cache
+C:\Users\emirg\Desktop\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.csproj.CoreCompileInputs.cache
+C:\Users\emirg\Desktop\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.exe
+C:\Users\emirg\Desktop\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.pdb
+C:\Users\emirg\Desktop\WORKING\YAZILIM\PROJELERİM\Zahire Projesi\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\bin\Debug\Zahire Pazar Alanı Projesi.exe.config
+C:\Users\emirg\Desktop\WORKING\YAZILIM\PROJELERİM\Zahire Projesi\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\bin\Debug\Zahire Pazar Alanı Projesi.exe
+C:\Users\emirg\Desktop\WORKING\YAZILIM\PROJELERİM\Zahire Projesi\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\bin\Debug\Zahire Pazar Alanı Projesi.pdb
+C:\Users\emirg\Desktop\WORKING\YAZILIM\PROJELERİM\Zahire Projesi\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.csproj.AssemblyReference.cache
+C:\Users\emirg\Desktop\WORKING\YAZILIM\PROJELERİM\Zahire Projesi\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirg\Desktop\WORKING\YAZILIM\PROJELERİM\Zahire Projesi\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.AnaEkran.resources
+C:\Users\emirg\Desktop\WORKING\YAZILIM\PROJELERİM\Zahire Projesi\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.SATIŞFORMU.resources
+C:\Users\emirg\Desktop\WORKING\YAZILIM\PROJELERİM\Zahire Projesi\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.PERSONEL.resources
+C:\Users\emirg\Desktop\WORKING\YAZILIM\PROJELERİM\Zahire Projesi\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.Properties.Resources.resources
+C:\Users\emirg\Desktop\WORKING\YAZILIM\PROJELERİM\Zahire Projesi\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire_Pazar_Alanı_Projesi.SATINALMA.resources
+C:\Users\emirg\Desktop\WORKING\YAZILIM\PROJELERİM\Zahire Projesi\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.csproj.GenerateResource.cache
+C:\Users\emirg\Desktop\WORKING\YAZILIM\PROJELERİM\Zahire Projesi\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.csproj.CoreCompileInputs.cache
+C:\Users\emirg\Desktop\WORKING\YAZILIM\PROJELERİM\Zahire Projesi\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.exe
+C:\Users\emirg\Desktop\WORKING\YAZILIM\PROJELERİM\Zahire Projesi\zahire\Zahire Pazar Alanı Projesi\Zahire Pazar Alanı Projesi\obj\Debug\Zahire Pazar Alanı Projesi.pdb
